@@ -1,0 +1,2 @@
+# myrepo
+git/giut setpup
